@@ -56,6 +56,29 @@
 	background-position: center;
 }
 
+.hero6{
+	height: 100vh;
+	width: 100%;
+	background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(../image/Background7.jpg);
+	background-size: cover;
+	background-position: center;
+}
+
+.hero7{
+	height: 100vh;
+	width: 100%;
+	background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(../image/Background8.jpg);
+	background-size: cover;
+	background-position: center;
+}
+
+.hero8{
+	height: 100vh;
+	width: 100%;
+	background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(../image/Background9.jpg);
+	background-size: cover;
+	background-position: center;
+}
 
 
 hr{
