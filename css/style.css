@@ -6,6 +6,14 @@
   scroll-behavior: smooth;
 }
 
+iframe {
+  border: none;
+}
+
+.about-text {
+			text-align: center;
+		}
+
 .hero {
   height: 100vh;
   width: 100%;
@@ -20,8 +28,8 @@
 .hero1 {
   height: 100vh;
   width: 100%;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url(../image/Background2.jpg);
+  background-color: #191919;
+
   background-size: cover;
   background-position: center;
 }
@@ -29,8 +37,8 @@
 .hero2 {
   height: 100vh;
   width: 100%;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url(../image/Background3.jpg);
+  background-color: #191919;
+
   background-size: cover;
   background-position: center;
 }
@@ -38,8 +46,8 @@
 .hero3 {
   height: 100vh;
   width: 100%;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url(../image/Background4.jpg);
+  background-color: #191919;
+
   background-size: cover;
   background-position: center;
 }
@@ -47,8 +55,8 @@
 .hero4 {
   height: 100vh;
   width: 100%;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url(../image/Background5.jpg);
+  background-color: #191919;
+
   background-size: cover;
   background-position: center;
 }
@@ -56,8 +64,8 @@
 .hero5 {
   height: 100vh;
   width: 100%;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url(../image/Background6.jpg);
+  background-color: #191919;
+
   background-size: cover;
   background-position: center;
 }
@@ -65,8 +73,8 @@
 .hero6 {
   height: 100vh;
   width: 100%;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url(../image/Background7.jpg);
+  background-color: #191919;
+
   background-size: cover;
   background-position: center;
 }
@@ -74,8 +82,8 @@
 .hero7 {
   height: 100vh;
   width: 100%;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url(../image/Background8.jpg);
+  background-color: #191919;
+
   background-size: cover;
   background-position: center;
 }
@@ -83,8 +91,8 @@
 .hero8 {
   height: 100vh;
   width: 100%;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url(../image/Background9.jpg);
+  background-color: #191919;
+
   background-size: cover;
   background-position: center;
 }
@@ -92,8 +100,8 @@
 .hero9 {
   height: 100vh;
   width: 100%;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url(../image/Background10.jpg);
+  background-color: #191919;
+
   background-size: cover;
   background-position: center;
 }
@@ -101,8 +109,8 @@
 .hero10 {
   height: 100vh;
   width: 100%;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url(../image/Background11.jpg);
+  background-color: #191919;
+
   background-size: cover;
   background-position: center;
 }
@@ -110,8 +118,8 @@
 .hero11 {
   height: 100vh;
   width: 100%;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url(../image/Background12.jpg);
+  background-color: #191919;
+
   background-size: cover;
   background-position: center;
 }
@@ -119,8 +127,8 @@
 .hero12 {
   height: 100vh;
   width: 100%;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url(../image/Background13.jpg);
+  background-color: #191919;
+
   background-size: cover;
   background-position: center;
 }
@@ -128,8 +136,8 @@
 .hero13 {
   height: 100vh;
   width: 100%;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url(../image/Background14.jpg);
+  background-color: #191919;
+
   background-size: cover;
   background-position: center;
 }
